@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0009-palindrome-number) |
+| [0012-integer-to-roman](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0012-integer-to-roman) |
 | [0029-divide-two-integers](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0029-divide-two-integers) |
 | [0043-multiply-strings](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0043-multiply-strings) |
 ## Linked List
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0012-integer-to-roman) |
 | [0043-multiply-strings](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0043-multiply-strings) |
 ## Simulation
 |  |
@@ -31,4 +33,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0029-divide-two-integers) |
+## Hash Table
+|  |
+| ------- |
+| [0012-integer-to-roman](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0012-integer-to-roman) |
 <!---LeetCode Topics End-->
