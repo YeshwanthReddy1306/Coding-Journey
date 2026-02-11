@@ -1,26 +1,37 @@
 class Solution {
 public:
     int romanToInt(string s) {
-        unordered_map<char, int> mp = {
-            {'I', 1},
-            {'V', 5},
-            {'X', 10},
-            {'L', 50},
-            {'C', 100},
-            {'D', 500},
-            {'M', 1000}
-        };
         int total = 0;
-        int prev = 0;
-        for(int i = s.length() - 1; i >= 0; i--) {
-            int curr = mp[s[i]];
-            
-            if(curr < prev)
-                total -= curr;
-            else
-                total += curr;   
-            prev = curr;
-        }
+        int n = s.length();
+        for (int i = 0; i < n; i++) {
+            int value = 0; 
+            switch (s[i]) {
+                case 'I': value = 1; break;
+                case 'V': value = 5; break;
+                case 'X': value = 10; break;
+                case 'L': value = 50; break;
+                case 'C': value = 100; break;
+                case 'D': value = 500; break;
+                case 'M': value = 1000; break;
+            }
+            if (i + 1 < n) {
+                int nextValue = 0;
+                switch (s[i + 1]) {
+                    case 'I': nextValue = 1; break;
+                    case 'V': nextValue = 5; break;
+                    case 'X': nextValue = 10; break;
+                    case 'L': nextValue = 50; break;
+                    case 'C': nextValue = 100; break;
+                    case 'D': nextValue = 500; break;
+                    case 'M': nextValue = 1000; break;
+                }
+                if (value < nextValue) {
+                    total -= value;
+                    continue;
+                }
+            } 
+            total += value;
+        } 
         return total;
     }
 };
