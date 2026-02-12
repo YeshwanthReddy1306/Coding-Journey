@@ -43,10 +43,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0013-roman-to-integer) |
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0066-plus-one) |
 <!---LeetCode Topics End-->
