@@ -1,57 +1,44 @@
 class Solution {
 public:
-    vector<int> computeLPS(string& pattern) {
-        int m = pattern.size();
-        vector<int> lps(m, 0);
-        
-        int len = 0; // l1
-        int i = 1;
-        
-        while (i < m) {
-            if (pattern[i] == pattern[len]) {
-                len++;
-                lps[i] = len;
-                i++;
-            } else {
-                if (len != 0) {
-                    len = lps[len - 1];
-                } else {
-                    lps[i] = 0;
-                    i++;
-                }
-            }
-        }
-        
-        return lps;
-    }
-
     int strStr(string haystack, string needle) {
         int n = haystack.size();
         int m = needle.size();
         
         if (m == 0) return 0;
+        if (m > n) return -1;
 
-        vector<int> lps = computeLPS(needle);
+        const int base = 26;      // alphabet size
+        const int mod = 1e9 + 7;  // large prime
+        
+        long long needleHash = 0;
+        long long windowHash = 0;
+        long long power = 1;
 
-        int i = 0; // index haystack
-        int j = 0; // index needle
+        // Compute base^(m-1)
+        for (int i = 0; i < m - 1; i++)
+            power = (power * base) % mod;
 
-        while (i < n) {
-            if (haystack[i] == needle[j]) {
-                i++;
-                j++;
-            } 
-            if (j == m) {
-                return i - j;
+        // Compute initial hashes
+        for (int i = 0; i < m; i++) {
+            needleHash = (needleHash * base + needle[i]) % mod;
+            windowHash = (windowHash * base + haystack[i]) % mod;
+        }
+
+        for (int i = 0; i <= n - m; i++) {
+            
+            // If hashes match, verify characters
+            if (needleHash == windowHash) {
+                if (haystack.substr(i, m) == needle)
+                    return i;
             }
-            else if (i < n && haystack[i] != needle[j]) {
-                if (j != 0) {
-                    j = lps[j - 1];
-                } else {
-                    i++;
-                }
+
+            // Slide window
+            if (i < n - m) {
+                windowHash = (windowHash - haystack[i] * power % mod + mod) % mod;
+                windowHash = (windowHash * base + haystack[i + m]) % mod;
             }
         }
+
         return -1;
     }
 };
