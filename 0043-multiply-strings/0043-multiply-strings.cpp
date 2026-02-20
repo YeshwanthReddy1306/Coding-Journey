@@ -9,25 +9,28 @@ public:
 
         for (int i = n - 1; i >= 0; i--) {
             for (int j = m - 1; j >= 0; j--) {
-                int mul = (num1[i] - '0') * (num2[j] - '0');
-                int sum = mul + result[i + j + 1];
+                int digit1 = num1[i] - '0';
+                int digit2 = num2[j] - '0';
 
-                result[i + j + 1] = sum % 10;   
-                result[i + j] += sum / 10;      
+                int product = digit1 * digit2;
+
+                int pos1 = i + j;
+                int pos2 = i + j + 1;
+
+                int sum = product + result[pos2];
+
+                result[pos2] = sum % 10;
+                result[pos1] += sum / 10;
             }
         }
 
-        
-        string ans = "";
-        int i = 0;
-
-        
-        while (i < result.size() && result[i] == 0) i++;
-
-        for (; i < result.size(); i++) {
-            ans.push_back(result[i] + '0');
+        string answer = "";
+        for (int num : result) {
+            if (!(answer.empty() && num == 0)) {
+                answer += to_string(num);
+            }
         }
 
-        return ans;
+        return answer.empty() ? "0" : answer;
     }
 };
