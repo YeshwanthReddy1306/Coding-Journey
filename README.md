@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0045-jump-game-ii) |
 | [0066-plus-one](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -104,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0005-longest-palindromic-substring](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0010-regular-expression-matching) |
 | [0022-generate-parentheses](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0022-generate-parentheses) |
+| [0045-jump-game-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0045-jump-game-ii) |
 | [0799-champagne-tower](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0799-champagne-tower) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0011-container-with-most-water) |
+| [0045-jump-game-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0045-jump-game-ii) |
 ## Binary Search
 |  |
 | ------- |
