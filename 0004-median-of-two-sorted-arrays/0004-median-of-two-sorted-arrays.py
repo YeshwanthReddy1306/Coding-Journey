@@ -1,28 +1,30 @@
-class Solution(object):
+class Solution:
     def findMedianSortedArrays(self, nums1, nums2):
         if len(nums1) > len(nums2):
             nums1, nums2 = nums2, nums1
-        
-        m, n = len(nums1), len(nums2)
-        left, right = 0, m
-        
+
+        m = len(nums1)
+        n = len(nums2)
+        half = (m + n + 1) // 2
+
+        left = 0
+        right = m
+
         while left <= right:
-            partition1 = (left + right) // 2
-            partition2 = (m + n + 1) // 2 - partition1
-            
-            maxLeft1 = float('-inf') if partition1 == 0 else nums1[partition1 - 1]
-            minRight1 = float('inf') if partition1 == m else nums1[partition1]
-            
-            maxLeft2 = float('-inf') if partition2 == 0 else nums2[partition2 - 1]
-            minRight2 = float('inf') if partition2 == n else nums2[partition2]
-            
-            if maxLeft1 <= minRight2 and maxLeft2 <= minRight1:
+            i = (left + right) // 2
+            j = half - i
+
+            l1 = nums1[i-1] if i > 0 else float('-inf')
+            r1 = nums1[i] if i < m else float('inf')
+            l2 = nums2[j-1] if j > 0 else float('-inf')
+            r2 = nums2[j] if j < n else float('inf')
+
+            if l1 <= r2 and l2 <= r1:
                 if (m + n) % 2 == 0:
-                    return (max(maxLeft1, maxLeft2) + min(minRight1, minRight2)) / 2.0
-                else:
-                    return max(maxLeft1, maxLeft2)
-            
-            elif maxLeft1 > minRight2:
-                right = partition1 - 1
+                    return (max(l1, l2) + min(r1, r2)) / 2.0
+                return max(l1, l2)
+
+            elif l1 > r2:
+                right = i - 1
             else:
-                left = partition1 + 1
+                left = i + 1
