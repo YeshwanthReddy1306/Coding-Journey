@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0055-jump-game) |
 | [0066-plus-one](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -119,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0055-jump-game) |
 | [0799-champagne-tower](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0799-champagne-tower) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0045-jump-game-ii) |
+| [0055-jump-game](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0055-jump-game) |
 ## Binary Search
 |  |
 | ------- |
