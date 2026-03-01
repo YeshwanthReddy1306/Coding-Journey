@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0064-minimum-path-sum) |
 | [0799-champagne-tower](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0799-champagne-tower) |
 ## Greedy
 |  |
@@ -196,4 +198,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0054-spiral-matrix) |
 | [0063-unique-paths-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0064-minimum-path-sum) |
 <!---LeetCode Topics End-->
