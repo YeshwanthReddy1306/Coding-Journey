@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0799-champagne-tower](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0799-champagne-tower) |
 ## Greedy
 |  |
@@ -201,6 +202,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0110-balanced-binary-tree](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0110-balanced-binary-tree) |
 ## Depth-First Search
 |  |
@@ -212,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0110-balanced-binary-tree](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0110-balanced-binary-tree) |
 ## Sorting
 |  |
@@ -239,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 ## Stack
 |  |
 | ------- |
@@ -278,4 +282,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0085-maximal-rectangle) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
