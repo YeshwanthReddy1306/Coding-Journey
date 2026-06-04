@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0069-sqrtx](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0089-gray-code) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
 | ------- |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0095-unique-binary-search-trees-ii) |
 | [0799-champagne-tower](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0799-champagne-tower) |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
 | ------- |
@@ -286,4 +288,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0095-unique-binary-search-trees-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3751-total-waviness-of-numbers-in-range-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 <!---LeetCode Topics End-->
