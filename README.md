@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0090-subsets-ii) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
@@ -188,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0055-jump-game) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Binary Search
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0088-merge-sorted-array) |
+| [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Backtracking
