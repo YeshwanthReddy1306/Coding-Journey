@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0190-reverse-bits) |
+| [0645-set-mismatch](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0645-set-mismatch) |
 ## Hash Table
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0432-all-oone-data-structure](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
+| [0645-set-mismatch](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0645-set-mismatch) |
 ## Array
 |  |
 | ------- |
@@ -158,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0485-max-consecutive-ones](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0645-set-mismatch) |
 | [1470-shuffle-the-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0088-merge-sorted-array) |
+| [0645-set-mismatch](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0645-set-mismatch) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
