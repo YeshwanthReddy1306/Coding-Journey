@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0083-remove-duplicates-from-sorted-list](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0092-reverse-linked-list-ii) |
+| [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0073-set-matrix-zeroes) |
+| [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
 ## Array
 |  |
 | ------- |
@@ -341,4 +343,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0102-binary-tree-level-order-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0104-maximum-depth-of-binary-tree) |
+## Design
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
