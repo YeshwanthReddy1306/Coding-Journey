@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
 | ------- |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 ## Array
 |  |
 | ------- |
@@ -347,8 +349,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 <!---LeetCode Topics End-->
