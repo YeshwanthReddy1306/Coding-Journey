@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0090-subsets-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [1470-shuffle-the-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
