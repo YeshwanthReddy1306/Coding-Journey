@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0086-partition-list) |
 | [0092-reverse-linked-list-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0092-reverse-linked-list-ii) |
 | [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 ## Recursion
 |  |
@@ -106,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 ## Array
 |  |
@@ -357,11 +359,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0432-all-oone-data-structure](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
+| [0432-all-oone-data-structure](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0432-all-oone-data-structure) |
 | [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 ## Randomized
 |  |
