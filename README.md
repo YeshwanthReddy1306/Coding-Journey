@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0089-gray-code](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Linked List
 |  |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0073-set-matrix-zeroes) |
 | [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 ## Array
 |  |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0090-subsets-ii) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
@@ -353,6 +356,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0146-lru-cache) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 ## Doubly-Linked List
 |  |
@@ -363,4 +367,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
