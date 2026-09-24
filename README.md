@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0096-unique-binary-search-trees) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0085-maximal-rectangle](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0090-subsets-ii) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0380-insert-delete-getrandom-o1](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -318,6 +320,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [1441-build-an-array-with-stack-operations](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 ## String Matching
 |  |
