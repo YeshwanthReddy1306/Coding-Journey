@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0059-spiral-matrix-ii) |
 | [0067-add-binary](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0068-text-justification) |
+| [1441-build-an-array-with-stack-operations](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1929-concatenation-of-array) |
 ## Bit Manipulation
 |  |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -316,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0094-binary-tree-inorder-traversal) |
+| [1441-build-an-array-with-stack-operations](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 ## String Matching
 |  |
 | ------- |
