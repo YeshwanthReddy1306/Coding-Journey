@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0097-interleaving-string) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Simulation
 |  |
 | ------- |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0460-lfu-cache](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0460-lfu-cache) |
 | [0645-set-mismatch](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Array
 |  |
 | ------- |
@@ -171,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1441-build-an-array-with-stack-operations](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1470-shuffle-the-array) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
