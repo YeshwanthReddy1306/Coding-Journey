@@ -176,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1929-concatenation-of-array](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1929-concatenation-of-array) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3635-earliest-finish-time-for-land-and-water-rides-ii) |
 ## Two Pointers
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0097-interleaving-string) |
 | [0799-champagne-tower](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0799-champagne-tower) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/3751-total-waviness-of-numbers-in-range-i) |
 ## Greedy
 |  |
@@ -349,6 +351,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0085-maximal-rectangle) |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Memoization
 |  |
 | ------- |
@@ -400,4 +403,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Bracket Sequences
+|  |
+| ------- |
+| [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
