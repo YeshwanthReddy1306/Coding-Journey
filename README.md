@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0097-interleaving-string) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 ## Simulation
 |  |
@@ -328,6 +329,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0094-binary-tree-inorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0636-exclusive-time-of-functions](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/0636-exclusive-time-of-functions) |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1441-build-an-array-with-stack-operations) |
 ## String Matching
 |  |
@@ -406,5 +408,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bracket Sequences
 |  |
 | ------- |
+| [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/YeshwanthReddy1306/Coding-Journey/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 <!---LeetCode Topics End-->
